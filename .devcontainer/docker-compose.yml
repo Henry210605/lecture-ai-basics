@@ -1,6 +1,6 @@
 services:
-  lecture-ai-basics:
-    container_name: lecture-ai-basics
+  lecture-ai-basics-henry:
+    container_name: lecture-ai-basics-henry
     init: true
     build:
       context: ..

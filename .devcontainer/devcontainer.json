@@ -1,6 +1,6 @@
 {
 	"name": "Lecture Notes - AI Basics",
-	"service": "lecture-ai-basics",
+	"service": "lecture-ai-basics-henry",
 	"remoteUser": "vscode",
 	"workspaceFolder": "/workspaces",
 	"dockerComposeFile": "docker-compose.yml",
