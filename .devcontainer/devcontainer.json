@@ -22,6 +22,10 @@
     },
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"python.defaultInterpreterPath": "/workspaces/.venv/bin/python",
+				"python.terminal.activateEnvironment": true
+			},
 			"extensions": [
 				"ms-python.python",
 				"ms-python.mypy-type-checker",
